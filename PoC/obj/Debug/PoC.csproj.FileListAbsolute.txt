@@ -1,0 +1,7 @@
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\bin\Debug\PoC.exe.config
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\bin\Debug\PoC.exe
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\bin\Debug\PoC.pdb
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\obj\Debug\PoC.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\obj\Debug\PoC.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\obj\Debug\PoC.exe
+C:\Users\Intel\Desktop\Estudo C#\CadastroItem\PoC\obj\Debug\PoC.pdb
